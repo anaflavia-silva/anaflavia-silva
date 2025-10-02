@@ -55,7 +55,7 @@ Aplicação **Fullstack** para controle financeiro, com relatórios de receitas 
 
 📧 **E-mail:** [anaflaviabsdev@gmail.com](mailto:anaflaviabsdev@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/anaflavia-silvabs](https://www.linkedin.com/in/anaflavia-silvabs/)  
-💻 **Portfólio:** [anaflaviadev.me]([https://anaflaviadev.me](https://portfolio-tlou.vercel.app/))  
+💻 **Portfólio:** [https://portfolio-tlou.vercel.app/](https://portfolio-tlou.vercel.app/))  
 
 ---
 
